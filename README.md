@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<div align="center">
-  <img src="https://i.postimg.cc/Z5MWWKvr/github-profle-final.jpg" alt="Uday Vandanapu - Banner" width="100%" height="auto"/>
-</div>
+
 
 <h1 align="center">Uday Vandanapu</h1>
 <h3 align="center" style="color: #007acc;">Cloud DevOps Engineer | Software Developer | Fullstack Engineer | Site Reliability Engineer</h3>
